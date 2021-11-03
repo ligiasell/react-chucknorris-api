@@ -1,0 +1,44 @@
+body {
+  text-align: center;
+}
+
+header {
+  width: 100%;
+  margin: 40px;
+}
+
+.title {
+  font-size: 48px;
+  text-shadow: 2px 2px rgb(0, 0, 0);
+  text-transform: uppercase;
+  color: gray;
+}
+
+img {
+  max-width: 400px;
+}
+
+.card {
+  margin: 40px 0;
+}
+
+.btn[disabled] {
+  cursor: not-allowed;
+}
+
+.error {
+  color: #e2182c;
+}
+
+.subTitle {
+  margin-top: 40px;
+  color: gray;
+}
+
+h4 {
+  margin-top: 20px;
+  font-size: 36px;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px rgb(0, 0, 0);
+  color: #ffc107;
+}
